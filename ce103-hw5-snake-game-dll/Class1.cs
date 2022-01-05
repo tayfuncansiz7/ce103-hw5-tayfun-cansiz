@@ -344,7 +344,7 @@ namespace ce103_hw5_snake_dll
             }
 
             Console.SetCursorPosition(52, 23);    //we moved the cursor
-            Console.Write("Coder: Ridvan KARASUBASI");
+            Console.Write("Coder: Tayfun CANSIZ");
 
             Console.SetCursorPosition(52, 24);    //we moved the cursor
             Console.Write("Version: 0.5");
